@@ -1,6 +1,9 @@
 # Basic Java Problems
-This repository contains solutions to 12 basic Java programming problems, providing a foundational understanding of essential Java concepts such as loops, arrays, and conditionals.Each problems is solved with detailed code
+This repository contains solutions to 12 basic Java programming problems, providing a foundational understanding of essential Java concepts such as loops, arrays, and conditionals.Each problem is solved with detailed code
 and try to implement the programming logic.
+
+## IDEA:
+- IntelliJ
 
 ## Given Problems: 
 - Here is the 10 students CGPA [3.50, 3.52, 3.43, 3.63, 3.48, 3.32, 3.30, 3.60, 3.86, 3.75]. Find out who achieved the 2nd highest score. (without sorting, use linear searching algorithm)
